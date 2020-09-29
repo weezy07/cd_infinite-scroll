@@ -27,16 +27,20 @@ body {
   object-fit: cover;
   object-position: center top;
 }
-
 .image2 {
   -webkit-filter: brightness(40%);
 }
-
 .rank {
   display: flex;
   position: relative;
   bottom: 12%;
   justify-content: space-between;
+}
+.fa-star {
+  font-size: 0.7em;
+}
+.empty_star {
+  color: #ccc
 }
 .best-away {
   display: flex;
