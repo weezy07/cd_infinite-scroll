@@ -1,4 +1,4 @@
-This project is basically on infinite scrolling which displays the next set of response on scroll after a certain pixels of scrolling.   
+This project is basically on infinite scrolling which displays the next set of response on scroll after a certain position of scrollbar.   
 
 # Installation Guide
 
